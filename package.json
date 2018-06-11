@@ -1,0 +1,10 @@
+{
+    "package": {
+      "name": "iex",
+      "description": "IEX market library",
+      "version": {
+        "major": "1",
+        "minor": "0"
+      }
+    }
+  }
