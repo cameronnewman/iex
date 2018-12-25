@@ -7,7 +7,7 @@ PROJECT				:= $(shell cat package.json | sed -n 's/.*"name": "\(.*\)",/\1/p')
 VERSION				:= $(shell echo "${MAJOR_VERSION}-${MINOR_VERSION}-${INTERNAL_BUILD_ID}-${SHA1}")
 DOCKER_VERSION		:= $(shell echo "${MAJOR_VERSION}.${MINOR_VERSION}.${INTERNAL_BUILD_ID}-${SHA1}")
 BUILD_NAME			:= $(shell echo "go-build")
-BUILD_IMAGE			:= $(shell echo "golang:1.10")
+BUILD_IMAGE			:= $(shell echo "golang:1.11.4")
 PWD					:= $(shell pwd)
 REPO 				:= $(shell echo "github.com/cameronnewman")
 
