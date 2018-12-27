@@ -2,7 +2,7 @@
 
 ## Purpose ##
 
-Simple IEX package for interacting with iextrading.com API.
+Simple package for interacting with iextrading.com API.
 
 [![GoDoc][1]][2]
 [![GoCard][3]][4]
