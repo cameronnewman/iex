@@ -8,7 +8,7 @@
 [2]: https://godoc.org/github.com/cameronnewman/iex
 [3]: https://goreportcard.com/badge/github.com/cameronnewman/iex
 [4]: https://goreportcard.com/report/github.com/cameronnewman/iex
-[5]: https://github.com/cameronnewman/iex/workflows/pipeline/badge.svg
+[5]: https://github.com/cameronnewman/iex/workflows/Continuous%20Integration/badge.svg
 [6]: https://github.com/cameronnewman/iex/actions
 
 
